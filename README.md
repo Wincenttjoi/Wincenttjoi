@@ -10,12 +10,15 @@
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Wincent 👋
+## Hi there, I'm Wincent 👋
 
-# I'm a Year 2 Computer Science student studying in NUS!
+### I'm a Year 2 Computer Science student studying in NUS!
 - 👯 I’m looking for internship opportunities
 - 🥅 2020 Goals: Contribute to FinTech Society and learn more about DevOps
 - ⚡ Fun fact: I love to drink coffee
+
+---
+<img align="left" alt="Wincenttjoi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wincenttjoi&show_icons=true&hide_border=true"/>
 
 ### Connect with me:
 
