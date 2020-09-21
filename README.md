@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love to drink coffee
 
 ---
-<img align="left" alt="Wincenttjoi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wincenttjoi&show_icons=true&hide_border=true"/>
+<img align="left" alt="Wincenttjoi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wincenttjoi&show_icons=true&hide_border=true&count_private=true"/>
 
 ### Connect with me:
 
