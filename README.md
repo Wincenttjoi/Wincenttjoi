@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Wincenttjoi/Wincenttjoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -12,9 +10,9 @@
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Wincent - aka [Wincenttjoi][website] 👋
+### Hi there, I'm Wincent 👋
 
-## I'm a Year 2 Computer Science student studying in NUS!
+# I'm a Year 2 Computer Science student studying in NUS!
 - 👯 I’m looking for internship opportunities
 - 🥅 2020 Goals: Contribute to FinTech Society and learn more about DevOps
 - ⚡ Fun fact: I love to drink coffee
