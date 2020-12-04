@@ -15,7 +15,7 @@
 ### I'm a Year 2 Computer Science student studying in NUS!
 - 👯 I’m looking for internship opportunities
 - 🥅 2020 Goals: Learn more about Cloud Computing/ DevOps!
-- ⚡ Fun fact: I love to drink coffee
+- ⚡ Fun fact: Love badminton and Coffee-addict!
 
 ---
 
