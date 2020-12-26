@@ -8,13 +8,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🥅 2020 Goals: Learn more about Cloud Computing/ DevOps!
 -->
 
 ## Hi there, I'm Wincent 👋
 
 ### I'm a Year 2 Computer Science student studying in NUS!
 - 👯 I’m looking for internship opportunities
-- 🥅 2020 Goals: Learn more about Cloud Computing/ DevOps!
 - ⚡ Fun fact: Love badminton and Coffee-addict!
 
 ---
