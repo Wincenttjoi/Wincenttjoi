@@ -14,8 +14,8 @@
 ## Hi there, I'm Wincent 👋
 
 ### I'm a Year 2 Computer Science student studying in NUS!
-- 👯 I’m looking for internship opportunities
-- ⚡ Fun fact: Love badminton and Coffee-addict!
+- 👯 I’m looking for internship opportunities!
+- ⚡ Interests: NFT, Equity and Cryptocurrency trading, Coffee, Badminton!
 
 ---
 
