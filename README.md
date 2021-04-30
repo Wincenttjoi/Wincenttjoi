@@ -13,7 +13,7 @@
 
 ## Hi there, I'm Wincent 👋
 
-### I'm a Year 2 Computer Science student studying in NUS!
+### I'm a Year 3 Computer Science student studying in NUS!
 - 👯 I’m looking for internship opportunities!
 - ⚡ Interests: NFT, Equity and Cryptocurrency trading, Coffee, Badminton!
 
