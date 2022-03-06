@@ -18,8 +18,11 @@
 - ⚡ Interests: NFT, Equity and Cryptocurrency trading, Coffee, Badminton!
 
 ---
+<!-- 
+[![Wincenttjoi's github stats](https://github-readme-stats.vercel.app/api?username=Wincenttjoi)](https://github.com/Wincenttjoi/github-readme-stats) -->
 
-[![Wincenttjoi's github stats](https://github-readme-stats.vercel.app/api?username=Wincenttjoi)](https://github.com/Wincenttjoi/github-readme-stats)
+
+![Wincenttjoi's github stats](https://github-readme-stats.vercel.app/api?username=Wincenttjoi)
 
 ### Connect with me:
 
