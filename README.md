@@ -22,7 +22,7 @@
 [![Wincenttjoi's github stats](https://github-readme-stats.vercel.app/api?username=Wincenttjoi)](https://github.com/Wincenttjoi/github-readme-stats) -->
 
 
-![Wincenttjoi's github stats](https://github-readme-stats.vercel.app/api?username=Wincenttjoi)
+![Wincenttjoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wincenttjoi&count_private=true)
 
 ### Connect with me:
 
