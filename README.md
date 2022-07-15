@@ -14,8 +14,9 @@
 ## Hi there, I'm Wincent 👋
 
 ### I'm a Final Year Computer Science student studying in NUS!
-- 👯 I’m looking for full time job opportunities!
-- ⚡ Interests: NFT, Equity and Cryptocurrency trading, Coffee, Badminton!
+- 👯 Specialize in Database Systems
+- 🔭 Minor in Management (Finance)
+- ⚡ Interests: Coffee-making, Badminton and Finance!
 
 ---
 <!-- 
