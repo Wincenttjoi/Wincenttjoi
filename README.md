@@ -14,6 +14,7 @@
 ## Hi there, I'm Wincent 👋
 
 ### I'm a Final Year Computer Science student studying in NUS!
+- 🥅 Graduating in December 2022
 - 👯 Specialize in Database Systems
 - 🔭 Minor in Management (Finance)
 - ⚡ Interests: Coffee-making, Badminton and Finance!
